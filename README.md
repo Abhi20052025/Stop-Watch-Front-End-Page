@@ -28,7 +28,7 @@ JavaScript (ES6) – Stopwatch logic and event handling
 
 Download or clone this repository
 
-git clone https://github.com/yourusername/stopwatch-project.git
+git clone https://github.com/Abhi20052025/Stop-Watch-Front-End-Page/tree/main
 
 
 Open the index.html file in your browser
